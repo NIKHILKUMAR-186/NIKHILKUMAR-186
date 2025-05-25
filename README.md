@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NIKHIL KUMAR</h1>
 <h3 align="center">A passionate frontend Data science from India</h3>
 
-<img align="right" alt = "coding" width="400" src="https://images.app.goo.gl/V2YAzs5pzJ8USJ4W8">
+<img align="right" alt = "coding" width="400" src="https://images.app.goo.gl/Qkf9f1orRe2TASf6A">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar-186&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar-186" /> </p>
 
