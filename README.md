@@ -3,17 +3,16 @@
 <h3 align="center">A passionate frontend Data science from India</h3>
 
 <img align="right" alt= " coding1" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
-<img align="centre" alt = "coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="left" alt = "coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar-186&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar-186" /> </p>
 
 - 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **raj.savera111@gmail.com**
+- 🎆campus Ambassador at internshala
 
 - ⚡ Fun fact **I Think I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: raj.savera111@gmail.com</h3>
 <p align="left">
 </p>
 
