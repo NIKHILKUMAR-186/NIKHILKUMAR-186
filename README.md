@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Python**
 - 🎆campus Ambassador at internshala
 
-- ⚡ Fun fact **I Think I am funny**
+  
 
 <h3 align="left">Connect with me: raj.savera111@gmail.com</h3>
 <p align="left">
